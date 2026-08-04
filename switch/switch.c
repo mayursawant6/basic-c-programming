@@ -4,7 +4,7 @@ int main() {
     printf("Enter a day : "); 
     scanf("%d",&day);// %d for number , %c for char , %f for float
     switch(day){
-        case 'a':printf("monday\n");//while defining char use the '' symbol
+        case 'a':printf("monday \n");//while defining char use the '' symbol
      break;
         case 'b':printf("teusday\n");
      break;

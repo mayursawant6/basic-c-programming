@@ -9,6 +9,7 @@ if(number>=0){
       }else{printf("odd\n");} ;
 
 printf("+ve");}
+
 else{ printf("not +v");}
 
     return 0;
